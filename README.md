@@ -1,0 +1,1 @@
+Criação de uma estrutura de código básica que será usada para os próximos projetos feitos em typeScript
